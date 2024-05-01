@@ -6,7 +6,7 @@ Section: C
 Group: ??
 Project Name: AIUB FITNESS ZONE
 
-![Alt Text]()
+![Alt Text](intro.png)
 
 ## Project Description ##
 
